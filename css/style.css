@@ -8,17 +8,17 @@ body, html {
     color: #666; 
 }
 
-.swiss2 {
+.pimg1 {
 background-image: url('swiss2.jpg'); 
 min-height:100%
 }
 
-.swiss3 {
+.pimg2 {
 background-image: url('swiss3.jpg'); 
-min-height:100%
+min-height: 400px; 
     }
 
-.swiss3 {
+.pimg3 {
 background-image: url('swiss4.jpg'); 
-min-height:100%
+min-height:400px; 
         }
