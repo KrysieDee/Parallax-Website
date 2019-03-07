@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif; 
+    font-weight: 400;
+    line-height: 1.8em; 
+    color: #666; 
+}
+
+.swiss2 {
+background-image: url('swiss2.jpg'); 
+min-height:100%
+}
+
+.swiss3 {
+background-image: url('swiss3.jpg'); 
+min-height:100%
+    }
+
+.swiss3 {
+background-image: url('swiss4.jpg'); 
+min-height:100%
+        }
